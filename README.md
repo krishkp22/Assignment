@@ -11,4 +11,4 @@
 2. Prediction of recovered cases 
 3. Prediction of deaths 
 4. 7 days visualization of the cases all over the world 
-5. Build a Linear Regression Model for prediction
+5. Building a Linear Regression Model for prediction
