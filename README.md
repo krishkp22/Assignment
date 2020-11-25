@@ -4,7 +4,7 @@
     Predict the Spread of Novel Corona virus using predictive analytics for next one week in all over the world.
 
 ### Dataset Used    
-        You can find the datasets here https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset and also in my repository.
+    You can find the datasets here https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset and also in my repository.
 
 ### Objectives are
 1. Prediction of confirmed cases 
